@@ -13,11 +13,13 @@
   },
   "dependencies": {
     "@wopr-network/plugin-types": "^0.1.0",
-    "hono": "^4.0.0"
+    "hono": "^4.0.0",
+    "shell-quote": "^1.7.3"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.0.0",
     "@types/node": "^20.0.0",
+    "@types/shell-quote": "^1.7.5",
     "typescript": "^5.0.0",
     "vitest": "^2.0.0"
   }
